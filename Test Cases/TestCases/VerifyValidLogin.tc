@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyValidLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>625219c0-4f15-4d15-a047-c07256f89f7b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4bbbdae-7010-4899-8cc7-0a1c19453df7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.Password</defaultValue>
+      <description></description>
+      <id>b4bbbdae-7010-4899-8cc7-0a1c19453df7</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
